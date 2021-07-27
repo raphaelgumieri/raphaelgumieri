@@ -7,7 +7,8 @@
 💬 I like to help others people, ask me about anything;\
 🌍 I want to work from anywhere in the world;\
 📫 Please, send an email to raphaelgumieri@hotmail.com to contact me;\
-:bat: I love [Dracula](https://draculatheme.com/) theme;
+:hourglass_flowing_sand:	I love [Sandman](https://en.wikipedia.org/wiki/The_Sandman_(comic_book));\
+:bat: I really like [Dracula](https://draculatheme.com/) theme;
 
 
 
@@ -62,10 +63,3 @@
       <img height="137px" src="https://github-readme-stats.vercel.app/api?username=raphaelgumieri&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dracula" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanellijoao&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=dracula" />
   </p>
 
-
-<hr/>
-<br/>
-
-<!-- <p align="right">
-<img src="https://komarev.com/ghpvc/?username=leandrofcr&style=plastic&label=Views"><img>
-</p> -->
