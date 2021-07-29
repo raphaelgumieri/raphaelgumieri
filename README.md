@@ -60,7 +60,9 @@
 :test_tube: [React Testing Library](https://github.com/tryber/sd-010-b-project-react-testing-library/pull/21)\
 :dollar: [Trybe Wallet - Redux](https://github.com/tryber/sd-010-b-project-trybewallet/pull/61)\
 :star: [Star Wars Planets - Context API and Hooks](https://github.com/tryber/sd-010-b-project-starwars-planets-search/pull/50)\
-:meat_on_bone: [Recipes App - React, Context API and Hooks](https://github.com/tryber/sd-010-b-project-recipes-app/tree/main-group-21-css-1)
+:meat_on_bone: [Recipes App - React, Context API and Hooks](https://github.com/tryber/sd-010-b-project-recipes-app/tree/main-group-21-css-1)\
+:floppy_disk: [MySQL Vocabulary Booster](https://github.com/tryber/sd-010-b-mysql-vocabulary-booster/pull/41)
+
 
 
 
