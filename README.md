@@ -54,6 +54,22 @@
 
 <hr/>
 
+<b> :bulb: &nbsp; Projects</b>\
+:lion: [Zoo Functions - JavaScript](https://github.com/tryber/sd-010-b-project-zoo-functions/tree/raphael-gumieri-project-zoo-functions)\
+:clapper: [Movie Card Library - React](https://github.com/tryber/sd-010-b-project-movie-card-library-crud/pull/60)\
+:test_tube: [React Testing Library](https://github.com/tryber/sd-010-b-project-react-testing-library/pull/21)\
+:dollar: [Trybe Wallet - Redux](https://github.com/tryber/sd-010-b-project-trybewallet/pull/61)\
+:star: [Star Wars Planets - Context API and Hooks](https://github.com/tryber/sd-010-b-project-starwars-planets-search/pull/50)\
+:meat_on_bone: [Recipes App - React, Context API and Hooks](https://github.com/tryber/sd-010-b-project-recipes-app/tree/main-group-21-css-1)
+
+
+
+
+
+
+  <br/>
+ <hr/>
+
 <b>:gear: &nbsp;GitHub Statistics</b>
 <br/>
   <p align="center">
