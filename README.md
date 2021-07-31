@@ -3,7 +3,7 @@
 ### &nbsp;About Me
 
 :rocket: &nbsp;Studying web development at [Trybe](https://www.betrybe.com/);\
-🤔 My hobbies are playing, movies and reading;\
+🤔 My hobbies are gaming, movies and reading;\
 💬 I like to help others people, ask me about anything;\
 🌍 I want to work from anywhere in the world;\
 📫 Please, send an email to raphaelgumieri@hotmail.com to contact me;\
