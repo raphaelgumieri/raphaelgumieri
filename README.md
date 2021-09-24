@@ -41,35 +41,17 @@
 ![npm](https://img.shields.io/badge/-npm-CB3837?style=flat=square&logo=npm&logoColor=white)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat=square&logo=linux&logoColor=black)&nbsp;
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat=square&logo=visual-studio-code&logoColor=white)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat=square&logo=mysql&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat=square&logo=mongodb&logoColor=white)&nbsp;
+![NodeJS](https://img.shields.io/badge/-Node.Js-339933?style=flat=square&logo=node-dot-js&logoColor=white)&nbsp;
 <!-- ![]()&nbsp; -->
 
 <b> :books: &nbsp;Coming soon...</b>
 <br/>
 
 ![Typescript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat=square&logo=typescript&logoColor=white)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat=square&logo=mysql&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat=square&logo=mongodb&logoColor=white)&nbsp;
-![NodeJS](https://img.shields.io/badge/-Node.Js-339933?style=flat=square&logo=node-dot-js&logoColor=white)&nbsp;
+
 <!-- ![]()&nbsp; -->
-
-<hr/>
-
-<b> :bulb: &nbsp; Projects</b>\
-:lion: [Zoo Functions - JavaScript](https://github.com/tryber/sd-010-b-project-zoo-functions/tree/raphael-gumieri-project-zoo-functions)\
-:clapper: [Movie Card Library - React](https://github.com/tryber/sd-010-b-project-movie-card-library-crud/pull/60)\
-:test_tube: [React Testing Library](https://github.com/tryber/sd-010-b-project-react-testing-library/pull/21)\
-:dollar: [Trybe Wallet - Redux](https://github.com/tryber/sd-010-b-project-trybewallet/pull/61)\
-:star: [Star Wars Planets - Context API and Hooks](https://github.com/tryber/sd-010-b-project-starwars-planets-search/pull/50)\
-:meat_on_bone: [Recipes App - React, Context API and Hooks](https://github.com/tryber/sd-010-b-project-recipes-app/tree/main-group-21-css-1)\
-:floppy_disk: [MySQL Vocabulary Booster](https://github.com/tryber/sd-010-b-mysql-vocabulary-booster/pull/41)
-
-
-
-
-
-
-
-  <br/>
  <hr/>
 
 <b>:gear: &nbsp;GitHub Statistics</b>
