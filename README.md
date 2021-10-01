@@ -27,7 +27,7 @@
 
   - :hourglass_flowing_sand: Eu amo [Sandman](https://en.wikipedia.org/wiki/The_Sandman_(comic_book))
 
-  - :bat: I gosto muito do tema [Dracula](https://draculatheme.com/)
+  - :bat: Eu gosto muito do tema [Dracula](https://draculatheme.com/)
 
 
 </h3>
