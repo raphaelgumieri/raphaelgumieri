@@ -11,17 +11,13 @@
   
   - :rocket: Sou estudante da [Trybe](https://www.betrybe.com/)
 
-  - :book: No momento estou aprendendo **Node.js**
-
-  - 🇺🇸 Nível de Ingês: **Upper Intermediate**
+  - :book: No momento estou aprendendo **Java**
 
   - 💼 Procurando por uma vaga de emprego como **Dev Junior**
   
   - :telescope: Estou sempre buscando novos desafios
-
-  - 🌍 Eu quero trabalhar em qualquer lugar do mundo
   
-  - ⚡ Meus hobbies são jogar video-game, assistir filmes/séries e ler 
+  - ⚡ Meus hobbies são jogar video-game, assistir filmes/séries e ler livros/mangás/hqs
     
   - 📌 Moro em Mauá
 
