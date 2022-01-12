@@ -8,12 +8,9 @@
 
 <h3>  
 
-  
+  - :office: Sou desenvolvedor na [Remessa](https://www.remessaonline.com.br/)
+
   - :rocket: Sou estudante da [Trybe](https://www.betrybe.com/)
-
-  - :book: No momento estou aprendendo **Java**
-
-  - 💼 Procurando por uma vaga de emprego como **Dev Junior**
   
   - :telescope: Estou sempre buscando novos desafios
   
@@ -83,7 +80,7 @@
     <a href="https://git-scm.com/doc" target="_blank">
    <code><img heigth="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
   </a>
-  <a href="https://github.com/gabrielessenio" target="_blank">
+  <a href="https://github.com/raphaelgumieri" target="_blank">
    <code><img heigth="50" width="50" src="https://www.nicepng.com/png/full/52-520535_free-files-github-github-icon-png-white.png"></code> 
   </a> 
    <a href="https://www.linux.org/" target="_blank">
