@@ -8,7 +8,7 @@
 
 <h3>  
 
-  - :office: Sou desenvolvedor na [Remessa](https://www.remessaonline.com.br/)
+  - :office: Sou desenvolvedor na [Remessa Online](https://www.remessaonline.com.br/)
 
   - :rocket: Sou estudante da [Trybe](https://www.betrybe.com/)
   
