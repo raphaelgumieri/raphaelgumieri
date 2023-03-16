@@ -14,7 +14,7 @@
   
   - :telescope: Estou sempre buscando novos desafios
   
-  - :books: Atualmente estou estudando [Dart](https://dart.dev/)  e [Flutter](https://flutter.dev/)
+  - :books: Atualmente trabalho utilizando [Dart](https://dart.dev/)  e [Flutter](https://flutter.dev/)
   
   - ⚡ Meus hobbies são jogar video-game, assistir filmes/séries e ler livros/mangás/hqs
     
